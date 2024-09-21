@@ -31,7 +31,7 @@ const config: DefaultConfigProps = {
   background_url: "https://unsplash.com/random",
   description: "天下武功 唯快不破",
   logo: "",
-  api: "https://sub.crosswalltech.com",
+  api: "https://houduan.fastss.de",
   languages: ["zh-CN", "en-US"],
   googleAnalytics: {
     measurementId: getGA()
